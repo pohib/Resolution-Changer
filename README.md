@@ -30,11 +30,10 @@
 4. Приложение будет автоматически изменять разрешение при запуске/закрытии процесса
 
 ![Интерфейс приложения](![image](https://github.com/user-attachments/assets/0ec0a398-53f6-403b-85a0-0f81ff7f1832)
-)
 
 ## Сборка из исходного кода
 
-1. Клонируйте репозиторий: git clone https://github.com/ваш-репозиторий.git
+1. Клонируйте репозиторий: git clone https://github.com/pohib/Resolution-Changer.git
 2. Откройте решение в Visual Studio
 3. Соберите решение (Build → Build Solution)
 4. Запустите приложение (F5)
