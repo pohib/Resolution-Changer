@@ -1,0 +1,17 @@
+C:\Users\dns\source\repos\ConsoleApp40\bin\Debug\net9.0\ConsoleApp40.exe
+C:\Users\dns\source\repos\ConsoleApp40\bin\Debug\net9.0\ConsoleApp40.deps.json
+C:\Users\dns\source\repos\ConsoleApp40\bin\Debug\net9.0\ConsoleApp40.runtimeconfig.json
+C:\Users\dns\source\repos\ConsoleApp40\bin\Debug\net9.0\ConsoleApp40.dll
+C:\Users\dns\source\repos\ConsoleApp40\bin\Debug\net9.0\ConsoleApp40.pdb
+C:\Users\dns\source\repos\ConsoleApp40\obj\Debug\net9.0\ConsoleApp40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dns\source\repos\ConsoleApp40\obj\Debug\net9.0\ConsoleApp40.AssemblyInfoInputs.cache
+C:\Users\dns\source\repos\ConsoleApp40\obj\Debug\net9.0\ConsoleApp40.AssemblyInfo.cs
+C:\Users\dns\source\repos\ConsoleApp40\obj\Debug\net9.0\ConsoleApp40.csproj.CoreCompileInputs.cache
+C:\Users\dns\source\repos\ConsoleApp40\obj\Debug\net9.0\ConsoleApp40.dll
+C:\Users\dns\source\repos\ConsoleApp40\obj\Debug\net9.0\refint\ConsoleApp40.dll
+C:\Users\dns\source\repos\ConsoleApp40\obj\Debug\net9.0\ConsoleApp40.pdb
+C:\Users\dns\source\repos\ConsoleApp40\obj\Debug\net9.0\ConsoleApp40.genruntimeconfig.cache
+C:\Users\dns\source\repos\ConsoleApp40\obj\Debug\net9.0\ref\ConsoleApp40.dll
+C:\Users\dns\source\repos\ConsoleApp40\bin\Debug\net9.0\SharpDX.dll
+C:\Users\dns\source\repos\ConsoleApp40\obj\Debug\net9.0\ConsoleApp40.csproj.AssemblyReference.cache
+C:\Users\dns\source\repos\ConsoleApp40\obj\Debug\net9.0\ConsoleA.2EC096D1.Up2Date

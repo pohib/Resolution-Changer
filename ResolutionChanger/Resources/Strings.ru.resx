@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- Та же схема, что и в Strings.resx -->
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+
+	<!-- Сообщения приложения -->
+	<data name="ProcessStarted" xml:space="preserve">
+    <value>Процесс обнаружен! Меняем разрешение на {0}x{1}...</value>
+  </data>
+	<data name="ProcessExited" xml:space="preserve">
+    <value>Процесс закрыт! Восстанавливаем разрешение {0}x{1}...</value>
+  </data>
+	<data name="ResolutionChangeSuccess" xml:space="preserve">
+    <value>Разрешение успешно изменено на {0}x{1}</value>
+  </data>
+	<data name="ResolutionRestoreSuccess" xml:space="preserve">
+    <value>Разрешение восстановлено {0}x{1}</value>
+  </data>
+	<data name="Error_ResolutionChangeFailed" xml:space="preserve">
+    <value>Ошибка изменения разрешения: {0}</value>
+  </data>
+	<data name="Error_ProcessNotFound" xml:space="preserve">
+    <value>Процесс "{0}" не найден</value>
+  </data>
+	<data name="MonitoringStarted" xml:space="preserve">
+    <value>Мониторинг запущен для процесса: {0}</value>
+  </data>
+	<data name="MonitoringStopped" xml:space="preserve">
+    <value>Мониторинг остановлен</value>
+  </data>
+	<data name="Warning_InvalidResolution" xml:space="preserve">
+    <value>Некорректное разрешение: {0}x{1}</value>
+  </data>
+	<data name="Status_Ready" xml:space="preserve">
+    <value>Готов</value>
+  </data>
+	<data name="Status_Working" xml:space="preserve">
+    <value>Работа...</value>
+  </data>
+	<data name="Menu_File" xml:space="preserve">
+    <value>Файл</value>
+  </data>
+	<data name="Menu_Exit" xml:space="preserve">
+    <value>Выход</value>
+  </data>
+	<data name="Menu_Language" xml:space="preserve">
+    <value>Язык</value>
+  </data>
+</root>

@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|c:\\users\\dns\\source\\repos\\resolutionchanger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|c:\\users\\dns\\source\\repos\\resolutionchanger\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|c:\\users\\dns\\source\\repos\\resolutionchanger\\resources\\strings.ru.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|solutionrelative:resources\\strings.ru.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|c:\\users\\dns\\source\\repos\\resolutionchanger\\resources\\strings.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|solutionrelative:resources\\strings.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|c:\\users\\dns\\source\\repos\\resolutionchanger\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|c:\\users\\dns\\source\\repos\\resolutionchanger\\program.cs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|solutionrelative:program.cs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|c:\\users\\dns\\source\\repos\\resolutionchanger\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|c:\\users\\dns\\source\\repos\\resolutionchanger\\resolutionchanger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{386429D5-9195-4959-AB7A-E5BFE25237BC}|ResolutionChanger.csproj|solutionrelative:resolutionchanger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Strings.resx",
+              "DocumentMoniker": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Resources\\Strings.resx",
+              "RelativeDocumentMoniker": "Resources\\Strings.resx",
+              "ToolTip": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Resources\\Strings.resx",
+              "RelativeToolTip": "Resources\\Strings.resx",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwGgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-17T14:19:34.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:18:38.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:18:33.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:10:09.157Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:30:16.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Strings.ru.resx",
+              "DocumentMoniker": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Resources\\Strings.ru.resx",
+              "RelativeDocumentMoniker": "Resources\\Strings.ru.resx",
+              "ToolTip": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Resources\\Strings.ru.resx",
+              "RelativeToolTip": "Resources\\Strings.ru.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-17T13:53:06.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:20:07.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResolutionChanger.csproj",
+              "DocumentMoniker": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\ResolutionChanger.csproj",
+              "RelativeDocumentMoniker": "ResolutionChanger.csproj",
+              "ToolTip": "C:\\Users\\dns\\source\\repos\\ResolutionChanger\\ResolutionChanger.csproj",
+              "RelativeToolTip": "ResolutionChanger.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T13:39:15.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

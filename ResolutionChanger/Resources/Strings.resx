@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+
+	<!-- Application Messages -->
+	<data name="ProcessStarted" xml:space="preserve">
+    <value>Process detected! Changing resolution to {0}x{1}...</value>
+  </data>
+	<data name="ProcessExited" xml:space="preserve">
+    <value>Process closed! Restoring default resolution {0}x{1}...</value>
+  </data>
+	<data name="ResolutionChangeSuccess" xml:space="preserve">
+    <value>Resolution successfully changed to {0}x{1}</value>
+  </data>
+	<data name="ResolutionRestoreSuccess" xml:space="preserve">
+    <value>Default resolution {0}x{1} restored</value>
+  </data>
+	<data name="Error_ResolutionChangeFailed" xml:space="preserve">
+    <value>Failed to change resolution: {0}</value>
+  </data>
+	<data name="Error_ProcessNotFound" xml:space="preserve">
+    <value>Process "{0}" not found</value>
+  </data>
+	<data name="MonitoringStarted" xml:space="preserve">
+    <value>Monitoring started for process: {0}</value>
+  </data>
+	<data name="MonitoringStopped" xml:space="preserve">
+    <value>Monitoring stopped</value>
+  </data>
+	<data name="Warning_InvalidResolution" xml:space="preserve">
+    <value>Invalid resolution specified: {0}x{1}</value>
+  </data>
+	<data name="Status_Ready" xml:space="preserve">
+    <value>Ready</value>
+  </data>
+	<data name="Status_Working" xml:space="preserve">
+    <value>Working...</value>
+  </data>
+	<data name="Menu_File" xml:space="preserve">
+    <value>File</value>
+  </data>
+	<data name="Menu_Exit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+	<data name="Menu_Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+</root>
