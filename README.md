@@ -35,7 +35,7 @@
 ## Сборка из исходного кода
 
 1. Клонируйте репозиторий: git clone https://github.com/pohib/Resolution-Changer.git
-2. Откройте решение ResolutionChangerConsole.sln в Visual Studio
+2. Откройте решение ResChangerConsole.csproj в Visual Studio
 3. Соберите решение "program1.cs" (Build → Build Solution)
 4. Запустите приложение (F5)
 
