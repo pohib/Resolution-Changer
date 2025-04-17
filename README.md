@@ -60,7 +60,7 @@
 
 # (en) Resolution Changer
 
-A program for automatically changing the screen resolution when the specified process is started. Suitable for those who use stretched resolution in applications / games in "full-screen in the window" mode.
+A program for automatically changing the screen resolution when the specified process is started. Suitable for those who use stretched resolution in applications / games in "fullscreen window" mode.
 
 ## Functionality
 
