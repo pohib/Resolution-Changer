@@ -30,7 +30,7 @@
 
 ## Интерфейс приложения
 
-(![image](https://github.com/user-attachments/assets/0ec0a398-53f6-403b-85a0-0f81ff7f1832)
+![image](https://github.com/user-attachments/assets/0ec0a398-53f6-403b-85a0-0f81ff7f1832)
 
 ## Сборка из исходного кода
 
