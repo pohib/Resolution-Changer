@@ -24,14 +24,17 @@
 
 ## Использование
 
-1. Введите имя процесса (без .exe) в соответствующее поле
+1. Введите имя процесса (без .exe) в соответствующее поле (имя процесса можно посмотреть в диспетчере задач)
 2. Укажите желаемое разрешение (ширину и высоту)
 3. Нажмите "Начать мониторинг"
 4. Приложение будет автоматически изменять разрешение при запуске/закрытии процесса
 
 ## Интерфейс приложения
 
-![image](https://github.com/user-attachments/assets/0ec0a398-53f6-403b-85a0-0f81ff7f1832)
+![image](https://github.com/user-attachments/assets/1e936af6-cc51-4412-9cec-68459ddf7e94)
+
+![image](https://github.com/user-attachments/assets/6383e586-db73-49c3-a858-5af96887fab5)
+
 
 ## Сборка из исходного кода
 
@@ -51,7 +54,8 @@
 
  
 
-#(en) Resolution Changer
+
+# (en) Resolution Changer
 
 A program for automatically changing the screen resolution when the specified process is started. Suitable for those who use stretched resolution in applications / games in "full-screen in the window" mode.
 
@@ -77,14 +81,18 @@ A program for automatically changing the screen resolution when the specified pr
 
 ## Usage
 
-1. Enter the process name (without .exe) in the appropriate field
+1. Enter the process name (without .exe) in the appropriate field (you can view the process name in the Task Manager)
 2. Specify the desired resolution (width and height)
 3. Click "Start monitoring"
 4. The application will automatically change the permission when starting/closing the process.
 
 ## Application Interface
 
-![image](https://github.com/user-attachments/assets/0ec0a398-53f6-403b-85a0-0f81ff7f1832)
+![image](https://github.com/user-attachments/assets/f0f6ae8e-d4fd-4290-b468-5195c4726ce9)
+
+![image](https://github.com/user-attachments/assets/d56b0783-bd65-4078-bdbf-cc07559cb1ae)
+
+
 
 ## Build from source code
 
